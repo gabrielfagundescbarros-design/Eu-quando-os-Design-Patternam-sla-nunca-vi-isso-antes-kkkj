@@ -1,0 +1,1 @@
+# Eu-quando-os-Design-Patternam-sla-nunca-vi-isso-antes-kkkj

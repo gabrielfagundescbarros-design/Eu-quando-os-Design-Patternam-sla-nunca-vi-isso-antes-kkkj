@@ -1,6 +1,6 @@
 package com.Fastfood;
 
-public class Sobremesa {
+public class Sobremesa implements ItemCombo {
 
     private final String nome;
     private final double preco;

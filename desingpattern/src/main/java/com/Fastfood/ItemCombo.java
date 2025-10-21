@@ -1,4 +1,4 @@
-package Fastfood;
+package com.Fastfood;
 
 public interface ItemCombo {
     String getNome();

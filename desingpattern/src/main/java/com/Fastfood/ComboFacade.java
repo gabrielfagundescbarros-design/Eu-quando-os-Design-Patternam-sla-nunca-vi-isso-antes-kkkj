@@ -56,6 +56,6 @@ public class ComboFacade {
     public double getPrecoTotal() {
         return combo != null ? combo.getPrecoTotal() : 0.0;
     }
-  
-    }
 
+    }
+   
